@@ -1,0 +1,11 @@
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\bin\Debug\LibrarySystem19011768.exe.config
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\bin\Debug\LibrarySystem19011768.exe
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\bin\Debug\LibrarySystem19011768.pdb
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\obj\Debug\LibrarySystem19011768.csprojAssemblyReference.cache
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\obj\Debug\LibrarySystem19011768.Properties.Resources.resources
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\obj\Debug\LibrarySystem19011768.csproj.GenerateResource.cache
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\obj\Debug\LibrarySystem19011768.csproj.CoreCompileInputs.cache
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\obj\Debug\LibrarySystem19011768.exe
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\obj\Debug\LibrarySystem19011768.pdb
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\obj\Debug\LibrarySystem19011768.frmMainMenu.resources
+C:\Users\Rayhaan\source\repos\LibrarySystem19011768\LibrarySystem19011768\obj\Debug\LibrarySystem19011768.frmReplaceBooks.resources
